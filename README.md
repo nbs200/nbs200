@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nbs200
-- 👀 I’m interested in ... music, learning, and video games
-- 🌱 I’m currently learning ... c++ and python
-- 💞️ I’m looking to collaborate on ... any project that is asked of me
+- 👀 I’m interested in ... playing music, art, and video games.  
+- 🌱 I’m currently learning ... software development at SNHU and self teaching myself web design. 
+- 💞️ I’m looking to collaborate on ... projects that are more web design oriented but can help with software development as well.
 - 📫 How to reach me ... nicholas.springman@snhu.edu
 
 <!---
